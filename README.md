@@ -43,8 +43,8 @@ See [pre-commit](https://github.com/pre-commit/pre-commit) for instructions
 Sample `.pre-commit-config.yaml`
 
 ```yaml
--   repo: https://github.com/asottile/reorder-python-imports
-    rev: v3.13.0
+-   repo: https://github.com/miguelinux/reorder-python-imports
+    rev: v3.13.0.1
     hooks:
     -   id: reorder-python-imports
 ```
